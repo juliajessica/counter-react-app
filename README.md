@@ -1,4 +1,4 @@
-LIVE SITE: https://juliajessica.github.io/counter-react-app
+LIVE SITE: https://counterreact.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
